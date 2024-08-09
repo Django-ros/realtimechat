@@ -1,5 +1,5 @@
 Real-Time Chat Application
-Developed by Aryan Agrawal
+
 
 Overview
 This comprehensive real-time chat application is designed for instant messaging, featuring a responsive and user-friendly interface across various devices. It leverages modern web technologies to ensure high performance, seamless integration, and efficient development workflows.
@@ -24,3 +24,9 @@ Socket.io: For real-time, bidirectional communication between clients and server
 Database:
 
 MongoDB: For storing user data and messages.
+
+
+
+
+
+Developed by Aryan Agrawal
